@@ -1,14 +1,19 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
+# Lista de exercícios aprimoramento de programação
 
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
+Esse projeto é escrito em Node, e testado usando Jest.
 
-### Setup command
-`npm install`
+## Instruções de setup
 
-### Run command
-`npm test`
+Na raiz do projeto, execute o comando:
 
-### Notes
-- 
+```bash
+npm install
+```
+
+## Testar cada exercício
+
+Na raiz do projeto, execute o comando:
+
+```bash
+npm test {nome_do_exercicio}
+```

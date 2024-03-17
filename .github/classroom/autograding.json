@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "aa",
+      "name": "Aprimoramento Programação",
       "setup": "npm install",
       "run": "npm test",
       "input": "",
