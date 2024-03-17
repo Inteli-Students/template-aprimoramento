@@ -17,3 +17,11 @@ Na raiz do projeto, execute o comando:
 ```bash
 npm test {nome_do_exercicio}
 ```
+
+## Testar todos os exercícios
+
+Na raiz do projeto, execute o comando:
+
+```bash
+npm test
+```
